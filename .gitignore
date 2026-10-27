@@ -1,0 +1,15 @@
+# Окружение
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node.js
+node_modules/
+.next/
+
+# Docker
+*.log
